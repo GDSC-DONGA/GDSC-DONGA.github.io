@@ -1,8 +1,9 @@
 ---
 layout: post
 title: test
-date: 2022-10-01 00:00:00 +0900
-category: a
+date: 2022-10-01 12:23:33 +0900
+category: templete
+tag: test
 ---
 # post-sample
 > test!
