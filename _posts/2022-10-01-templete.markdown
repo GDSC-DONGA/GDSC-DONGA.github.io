@@ -5,7 +5,7 @@ date: 2022-10-01 12:23:33 +0900
 category: templete
 tag: test
 ---
-# post-sample
+# 해당 templete 복사 후 수정하여 작성해주세요!
 > templete!
 
 https://github.com/GDSC-DONGA/GDSC-DAU-GitGuide/blob/main/Markdown.md
