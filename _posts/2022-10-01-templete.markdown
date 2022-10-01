@@ -8,4 +8,4 @@ tag: test
 # 해당 templete 복사 후 수정하여 작성해주세요!
 > templete!
 
-https://github.com/GDSC-DONGA/GDSC-DAU-GitGuide/blob/main/Markdown.md
+[마크다운 사용법](https://github.com/GDSC-DONGA/GDSC-DAU-GitGuide/blob/main/Markdown.md)
