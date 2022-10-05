@@ -1,4 +1,4 @@
 ---
-layout: Code_Bridge
+layout: codebridge
 title: Code_Bridge
 ---
